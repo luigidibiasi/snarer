@@ -8,5 +8,5 @@ On the basis of the chemical-physical, electrical and energy charge characterist
 (signal sequence helical potential,the Chou-Fasman parameter of the coil conformation,a parameter of charge transfer capability,a parameter of charge transfer donor 
 capability, normalized frequency of N-terminal helix, normalized frequency of C-terminal helix, normalized frequency of N-terminal non helical region,
 normalized frequency of C-terminal non helical region, solvation free energy, localized electrical effect, positive charge, negative charge, partition energy, average accessible surface area, side chain interaction parameter, bulkiness, helix formation parameters delta delta G, sheet and helix probability).
-The predictor has an accuracy of 93.17%, a precision of 96.60% and a specificity of 96,31%.
+
 
