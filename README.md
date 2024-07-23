@@ -1,4 +1,7 @@
 # SNARER
+Auriemma Citarella, A., Di Biasi, L., Risi, M. et al. SNARER: new molecular descriptors for SNARE proteins classification.
+BMC Bioinformatics 23, 148 (2022). https://doi.org/10.1186/s12859-022-04677-z
+
 SNARER is a predictor for SNARE proteins (SNARE stands for Soluble N–ethylmaleimide sensitive factor attachment protein receptor), part of a superfamily of proteins involved in the mechanism of molecular trafficking and it includes members from yeasts to mammalian cells. 
 Vesicle-mediated transport is essential for several processes at the base of the cell, such as the secretion of proteins and hormones, the release of neurotransmitters, the phagocytosis of pathogens by the immune system and the transport of between cellular compartments.
 In recent years, attention to SNARE proteins has increased following some scientific studies which have shown the implication of SNAREs in some neural disorders due to their crucial role in the neuronal and neurosensory release during the traffic of the vesicles with substances which act as neurotransmitters.
