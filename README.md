@@ -1,3 +1,5 @@
+Please refer to the new website: https://xai-ai.unisa.it/snarer/
+
 # SNARER
 Auriemma Citarella, A., Di Biasi, L., Risi, M. et al. SNARER: new molecular descriptors for SNARE proteins classification.
 BMC Bioinformatics 23, 148 (2022). https://doi.org/10.1186/s12859-022-04677-z
